@@ -60,10 +60,10 @@ described from the lowest layer upwards in the subsequent sections.
 
 # **Core System Package [Host volume]**
 
-[Figure-1.1]:Figure-1.1.png
-[Figure-1.2]:Figure-1.2.png
-[Figure-2.1]:Figure-2.1.png
-[Figure-3.1]:Figure-3.1.png
-[Figure-3.2]:Figure-3.2.png
-[Figure-3.3]:Figure-3.3.png
-[Figure-8.1]:Figure-8.1.png
+[Figure-1.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-1.1.png
+[Figure-1.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-1.2.png
+[Figure-2.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-2.1.png
+[Figure-3.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-3.1.png
+[Figure-3.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-3.2.png
+[Figure-3.3]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-3.3.png
+[Figure-8.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-8.1.png
