@@ -28,27 +28,27 @@ optionally HCI.
 > - a combined BR/EDR Controller portion and LE Controller portion (as
 identified in the previous two bullets) into a single Controller.
 
-![][Figure-1.1]
-![][Figure-1.2]
+![][Vol1-PART-A-Figure-1.1]
+![][Vol1-PART-A-Figure-1.2]
 
 ### 2 CORE SYSTEM ARCHITECTURE
-![][Figure-2.1]
+![][Vol1-PART-A-Figure-2.1]
 
 ### 3 DATA TRANSPORT ARCHITECTURE
 
-![][Figure-3.1]
+![][Vol1-PART-A-Figure-3.1]
 
 #### 3.1 CORE TRAFFIC BEARERS
 > The Bluetooth core system provides a number of standard traffic bearers for
 the transport of service protocol and application data.
 
-![][Figure-3.2]
+![][Vol1-PART-A-Figure-3.2]
 
 #### 3.2 TRANSPORT ARCHITECTURE ENTITIES
 > The Bluetooth transport architecture entities are shown in Figure 3.3 and are
 described from the lowest layer upwards in the subsequent sections.
 
-![][Figure-3.3]
+![][Vol1-PART-A-Figure-3.3]
 
 
 # **Core System Package [BR/EDR Controller volume]**
@@ -123,16 +123,16 @@ LAP is 0x9E8B33
 
 
 
-[Figure-1.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-1.1.png
-[Figure-1.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-1.2.png
-[Figure-2.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-2.1.png
-[Figure-3.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-3.1.png
-[Figure-3.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-3.2.png
-[Figure-3.3]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Figure-3.3.png
-[Vol2-PART-B-Figure-1.5]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Pictures/Vol2-PART-B-Figure-1.5.png
-[Vol2-PART-B-Figure-8.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Pictures/Vol2-PART-B-Figure-8.1.png
-[Vol2-PART-E-Figure-1.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Pictures/Vol2-PART-E-Figure-1.1.png
-[Vol2-PART-E-Figure-5.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Pictures/Vol2-PART-E-Figure-5.1.png
-[Vol2-PART-E-Figure-5.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Pictures/Vol2-PART-E-Figure-5.2.png
-[Vol2-PART-E-Figure-5.3]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Pictures/Vol2-PART-E-Figure-5.3.png
-[Vol2-PART-E-Figure-5.4]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Pictures/Vol2-PART-E-Figure-5.4.png
+[Vol1-PART-A-Figure-1.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol1-PART-A-Figure-1.1.png
+[Vol1-PART-A-Figure-1.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol1-PART-A-Figure-1.2.png
+[Vol1-PART-A-Figure-2.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol1-PART-A-Figure-2.1.png
+[Vol1-PART-A-Figure-3.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol1-PART-A-Figure-3.1.png
+[Vol1-PART-A-Figure-3.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol1-PART-A-Figure-3.2.png
+[Vol1-PART-A-Figure-3.3]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol1-PART-A-Figure-3.3.png
+[Vol2-PART-B-Figure-1.5]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol2-PART-B-Figure-1.5.png
+[Vol2-PART-B-Figure-8.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol2-PART-B-Figure-8.1.png
+[Vol2-PART-E-Figure-1.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol2-PART-E-Figure-1.1.png
+[Vol2-PART-E-Figure-5.1]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol2-PART-E-Figure-5.1.png
+[Vol2-PART-E-Figure-5.2]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol2-PART-E-Figure-5.2.png
+[Vol2-PART-E-Figure-5.3]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol2-PART-E-Figure-5.3.png
+[Vol2-PART-E-Figure-5.4]:https://raw.githubusercontent.com/jolin90/bt-docs/master/Pictures/Vol2-PART-E-Figure-5.4.png
